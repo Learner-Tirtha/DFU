@@ -1,3 +1,5 @@
+drive link:
+https://drive.google.com/drive/folders/1_HzBb5cQxBrnCkxrYlNwUV5BQHPMIxlY
 # Foot Ulcer Severity Prediction & AI Healthcare System
 
 ## 🚀 Overview
